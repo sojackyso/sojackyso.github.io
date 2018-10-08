@@ -2,6 +2,7 @@
 layout: post
 title: "Jacky So, Playing Around with Jekyll x GitHub"
 date: 2018-10-07
+permalink: first-jekyll
 ---
 
 This is just a sample post to see what Jekyll is all about. I almost didn't do this, because I instantly wanted to create workaround for the date-url part.
