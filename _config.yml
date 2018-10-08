@@ -1,3 +1,5 @@
 name: Jacky So, Technical Program Manager, Email and Lifecycle Content
 markdown: kramdown
 permalink: /:title:output_ext
+plugins:
+  - jekyll-sitemap
